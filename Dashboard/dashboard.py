@@ -4,7 +4,7 @@ import seaborn as sns
 import streamlit as st
 
 st.title(
-    "Bike Sharing Data Analysis"
+    "22523276- Ardra Chandra Satriyo - Bike Sharing Data Analysis"
 )
 
 day_df = pd.read_csv("./Data/day_cleaned.csv")
